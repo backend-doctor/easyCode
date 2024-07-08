@@ -8,4 +8,4 @@ run:
 
 test:
 
-    `make test`
+`make test`
